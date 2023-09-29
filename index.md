@@ -5,7 +5,7 @@ title: Qibin Shi
 
 # Welcome to My Personal Website
 
-I am currrently a postdoc in Dr. Marine Denolle[https://denolle-lab.github.io/]'s group at University of Washington.
+I am currrently a postdoc in Dr. [Marine Denolle](https://denolle-lab.github.io/)'s group at University of Washington.
 
 ## About Me
 
