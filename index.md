@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Qibin Shi 施其斌
+title: Qibin Shi
 ---
 
 # Welcome to My Personal Website
