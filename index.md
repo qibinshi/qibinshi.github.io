@@ -3,29 +3,36 @@ layout: default
 title: Qibin Shi
 ---
 
-# Welcome to My Personal Website
+# About Me
 
 I am currrently a postdoc in Dr. [Marine Denolle](https://denolle-lab.github.io/)'s group at University of Washington.
 
-## About Me
+## Research interests
 
-Write a brief introduction about yourself here.
+### Earthquake physics
+Earthquake coseismic rupture process inversions. 
+Source complexities of moderate-size earthquakes in the mantle. 
+Seismic cycles of fast and slow slip in the brittle-viscous subduction system. 
+Three-dimensional wave field from complex rupture processes.
 
-## Portfolio
+### Offshore seismic hazard
+Using machine learning methods to denoise earthquake waveforms collected from the ocean bottom. 
+Integrating distributed acoustic sensing and traditional seismic network.
+Looking for slow earthquakes in the Pacific-northwest subduction zone.
 
-### Project 1
+### Environmental seismology
+Using ambient noises to probe near-surface velocity structure.
+Observing characteristic soil vibrations with distributed acoustic sensing.
 
-Describe one of your projects or research work. Include links, images, and any other relevant information.
 
-### Project 2
+## Recent Publications
 
-Describe another project or area of expertise. Again, include links, images, and information.
+### Deepquake, ML denoising
 
-## Blog
+Qibin Shi and Marine Denolle. Improved observations of deep earthquake ruptures using machine learning. ESS Open Archive, 2023.
 
-Share your thoughts, ideas, or research findings through blog posts. You can create a `_posts` directory to organize your blog posts by date.
 
 ## Contact
 
-You can reach me at [your.email@example.com](mailto:your.email@example.com). You can also find me on [GitHub](https://github.com/yourusername) and [LinkedIn](https://www.linkedin.com/in/yourusername).
+You can reach me at [qibins@uw.edu](mailto:qibins@uw.edu). You can also find me on [GitHub](https://github.com/qibinshi) and [ORCID](https://orcid.org/https://orcid.org/0000-0002-4211-9187).
 
