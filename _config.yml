@@ -2,6 +2,6 @@
 title: Your Website Title
 description: A description of your website
 author: Your Name
-
-# Build settings
-theme: time-machine
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-time-machine
