@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Qibin Shi
+title: Home
 ---
 
 # About Me
