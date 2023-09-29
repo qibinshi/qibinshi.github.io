@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Your Name - Personal Website
+title: Qibin Shi 施其斌
 ---
 
 # Welcome to My Personal Website
 
-Hello, I'm [Your Name](https://github.com/yourusername). This is my personal website where I share my work and interests.
+I am currrently a postdoc in Dr. Marine Denolle's group at University of Washington.
 
 ## About Me
 
