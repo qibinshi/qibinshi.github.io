@@ -10,19 +10,19 @@ I am currrently a postdoc in Dr. [Marine Denolle](https://denolle-lab.github.io/
 ## Research interests
 
 ### Earthquake physics
--Earthquake coseismic rupture process inversions. 
--Source complexities of moderate-size earthquakes in the mantle. 
--Seismic cycles of fast and slow slip in the brittle-viscous subduction system. 
--Three-dimensional wave field from complex rupture processes.
+- Earthquake coseismic rupture process inversions. 
+- Source complexities of moderate-size earthquakes in the mantle. 
+- Seismic cycles of fast and slow slip in the brittle-viscous subduction system. 
+- Three-dimensional wave field from complex rupture processes.
 
 ### Offshore seismic hazard
--Using machine learning methods to denoise earthquake waveforms collected from the ocean bottom. 
--Integrating distributed acoustic sensing and traditional seismic network.
--Looking for slow earthquakes in the Pacific-northwest subduction zone.
+- Using machine learning methods to denoise earthquake waveforms collected from the ocean bottom. 
+- Integrating distributed acoustic sensing and traditional seismic network.
+- Looking for slow earthquakes in the Pacific-northwest subduction zone.
 
 ### Environmental seismology
--Using ambient noises to probe near-surface velocity structure.
--Observing characteristic soil vibrations with distributed acoustic sensing.
+- Using ambient noises to probe near-surface velocity structure.
+- Observing characteristic soil vibrations with distributed acoustic sensing.
 
 
 ## Recent Publications
