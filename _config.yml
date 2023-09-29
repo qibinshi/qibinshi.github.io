@@ -1,0 +1,7 @@
+# Site settings
+title: Your Website Title
+description: A description of your website
+author: Your Name
+
+# Build settings
+theme: time-machine
