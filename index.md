@@ -33,6 +33,7 @@ and large-N seismic arrays.
 1. **Shi, Q.** et al. (2025). *Agroseismology*. In revision for **Science**.
 2. **Shi, Q.** et al. (2025). Multiplexed DAS offshore Oregon. *SRL*.
 3. **Shi, Q.** & Denolle, M. (2023). ML-enhanced earthquake rupture imaging. *JGR*.
-4. **Shi, Q.** et al. (2020)*. Structure controls seismic cycle at Nankai subduction zone. *EPS*
+4. **Shi, Q.** et al. (2020). Structure controls seismic cycle at Nankai subduction zone. *EPS*
 5. **Shi, Q.** & Wei, S. (2020). Fluid enables dynamic rupture of orthogonal fault. *GRL*
+
 [Full publication list → Google Scholar](https://scholar.google.com/citations?hl=en&user=CbR34PsAAAAJ&view_op=list_works&sortby=pubdate)
