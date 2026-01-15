@@ -34,4 +34,4 @@ and large-N seismic arrays.
 2. **Shi, Q.** et al. (2025). Multiplexed DAS offshore Oregon. *SRL*.
 3. **Shi, Q.** & Denolle, M. (2023). ML-enhanced earthquake rupture imaging. *JGR*.
 
-[Full publication list → Google Scholar](https://scholar.google.com)
+[Full publication list → Google Scholar](https://scholar.google.com/citations?hl=en&user=CbR34PsAAAAJ&view_op=list_works&sortby=pubdate)
