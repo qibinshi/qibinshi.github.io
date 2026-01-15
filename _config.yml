@@ -1,0 +1,16 @@
+title: Qibin Shi
+email: qs20@rice.edu
+description: >
+  Earthquake physics, agroseismology, distributed acoustic sensing,
+  and AI for seismology
+baseurl: ""
+url: "https://qibinshi.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
