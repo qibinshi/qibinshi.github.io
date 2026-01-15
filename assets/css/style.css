@@ -11,9 +11,11 @@ body {
 /* Hero section */
 .hero {
   position: relative;
-  background-image: url("../background.jpeg");
+  background-color: #111827; /* fallback */
+  background-image: url("/assets/background.jpeg");
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   color: #ffffff;
 }
 
