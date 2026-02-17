@@ -30,7 +30,7 @@ and large-N seismic arrays.
 
 ## Selected Publications
 
-1. **Shi, Q.** et al. (2025). *Agroseismology*. In revision for **Science**.
+1. **Shi, Q.** et al. (2026). *Agroseismology*. **Science**.
 2. **Shi, Q.** et al. (2025). Multiplexed DAS offshore Oregon. *SRL*.
 3. **Shi, Q.** & Denolle, M. (2023). ML-enhanced earthquake rupture imaging. *JGR*.
 4. **Shi, Q.** et al. (2020). Structure controls seismic cycle at Nankai subduction zone. *EPS*
