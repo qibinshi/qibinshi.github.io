@@ -13,10 +13,9 @@ and large-N seismic arrays.
 ## Research Interests
 
 - Agroseismology & soil hydrodynamics  
-- Distributed Acoustic Sensing (DAS)  
+- Earthquake rupture physics
+- Machine learning for earthquakes
 - Environmental & near-surface seismology  
-- Machine learning for seismology  
-- Earthquake rupture physics  
 
 ## Education
 
