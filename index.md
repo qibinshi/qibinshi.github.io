@@ -5,10 +5,8 @@ title: Home
 
 ## About
 
-I am a geophysicist working on earthquake physics, agroseismology,
-distributed acoustic sensing (DAS), and data-driven seismology.
-My research focuses on environmental processes, fault mechanics,
-and large-N seismic arrays.
+I am a geoscientist working on earthquake physics, agroseismology, and data-driven seismology.
+My research focuses on tectonic processes, fault mechanics and soil hydrological processes.
 
 ## Research Interests
 
