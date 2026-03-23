@@ -5,7 +5,7 @@ title: Home
 
 ## About
 
-I am a geoscientist working on earthquake physics, agroseismology, and data-driven seismology.
+I am a geoscientist working on earthquake physics and soil water dynamics.
 My research focuses on tectonic processes, fault mechanics and soil hydrological processes.
 
 ## Research Interests
