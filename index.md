@@ -10,10 +10,8 @@ My research focuses on tectonic processes, fault mechanics and soil hydrological
 
 ## Research Interests
 
-- Agroseismology & soil hydrodynamics  
+- Soil hydrodynamics  
 - Earthquake rupture physics
-- Machine learning for earthquakes
-- Environmental & near-surface seismology  
 
 ## Education
 
@@ -28,7 +26,7 @@ My research focuses on tectonic processes, fault mechanics and soil hydrological
 ## Selected Publications
 
 1. **Shi, Q.** et al. (2026). *Agroseismology*. *Science*.
-2. **Shi, Q.** et al. (2025). Multiplexed DAS offshore Oregon. *SRL*.
+2. **Shi, Q.** et al. (2025). Multiplexed DAS for earthquake monitoring. *SRL*.
 3. **Shi, Q.** & Denolle, M. (2023). ML-enhanced earthquake rupture imaging. *JGR*.
 4. **Shi, Q.** et al. (2020). Structure controls seismic cycle at Nankai subduction zone. *EPS*
 5. **Shi, Q.** & Wei, S. (2020). Fluid enables dynamic rupture of orthogonal fault. *GRL*
