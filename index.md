@@ -19,8 +19,8 @@ My research focuses on tectonic processes, fault mechanics and soil hydrological
 - **B.Sc. Geology**, Nanjing University (2016)
 
 ## Professional Experience
-
-- **Pan Postdoctoral Fellow**, Rice University (2025–present)  
+- **Associate Professor**, Chinese Academy of Sciences (2026–present)
+- **Pan Postdoctoral Fellow**, Rice University (2025–2026)  
 - **Postdoctoral Scholar**, University of Washington (2022–2024)
 
 ## Selected Publications
